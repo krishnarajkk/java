@@ -18,6 +18,7 @@ public class Beggining {
 		System.out.println(title);
 		String currentUrl = driver.getCurrentUrl();
 		System.out.println(currentUrl);
+		System.out.println("Completed");
 		driver.close();
 	}
 
