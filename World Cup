@@ -1,0 +1,15 @@
+public class TeamIndia{
+static void worldCup()
+{
+System.out.println("India will lift T20 WC 2024");
+}
+void championsTrophy()
+{
+System.out.println("India will lift Champions Trophy 2025");
+}
+public static void main(String[] args)
+{
+TeamIndia ind= new TeamIndia();
+ind.championsTrophy();
+worldCup();
+}
