@@ -2,6 +2,7 @@ public class TeamIndia{
 static void worldCup()
 {
 System.out.println("India will lift T20 WC 2024");
+System.out.println("India will lift World Test Championship 2025");
 }
 void championsTrophy()
 {
